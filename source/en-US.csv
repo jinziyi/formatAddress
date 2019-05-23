@@ -1,0 +1,702 @@
+countryEnName,cityEName,cityCode,sectionTitle
+China,Macao,i-macau,M
+China,Aomenbandao,i-macau_peninsula,A
+China,Kaohsiung City,i-kaohsiung,K
+China,Hualien City,i-hualien,H
+China,Hualien County,i-hualien_city,H
+China,Keelung City,i-jilong,K
+China,Chiayi County,i-chiayi_county,C
+China,Kinmen County,i-kinmen,K
+China,ludangcheng,i-cotai,l
+China,Miaoli County,i-miaoli,M
+China,Nantou City,i-nantou,N
+China,Penghu County,i-penghu,P
+China,Pingtung County,i-pingtung,P
+China,Taipei City,i-taipei,T
+China,Taitung County,i-taitung,T
+China,Tainan City,i-tainan,T
+China,Taichung City,i-taichung,T
+China,Taoyuan District,i-taoyuan,T
+China,Taoyuan County,i-taoyuan_taoyuan_district,T
+China,Hong kong,i-hong_kong,h
+China,New Taipei City,i-new_taipei_city,N
+China,Hsinchu City,i-hsinchu,H
+China,Hsinchu County,i-hsinchu_county,H
+China,Yilan County,i-taiwan_yilan,Y
+China,Yunlin County,i-yunlin,Y
+China,Changhua County,i-zhanghua,C
+Chile,Santiago,i-santiago,S
+Vietnam,Dalat,i-dalat,D
+Vietnam,Phu Quoc Island,i-phu_quoc_island,P
+Vietnam,Haiphong,i-haiphong,H
+Vietnam,Hanoi,i-hanoi,H
+Vietnam,Ho Chi Minh City,i-ho_chi_minh_city,H
+Vietnam,Hoi An,i-hoi_an,H
+Vietnam,Mui Ne,i-mui_ne,M
+Vietnam,Phan Thiet,i-phan_thiet,P
+Vietnam,Hue,i-hue,H
+Vietnam,Vung Tau,i-vung_tau,V
+Vietnam,Halong Bay,i-halong_bay,H
+Vietnam,Da Nang,i-da_nang,D
+Vietnam,Nha Trang,i-nha_trang,N
+Jordan,Amman,i-amman,A
+United Kingdom,Edinburgh,i-edinburgh,E
+United Kingdom,Bath,i-bath,B
+United Kingdom,Bowness on Windermere,i-bowness_on_windermere,B
+United Kingdom,Belfast,i-belfast,B
+United Kingdom,Birmingham,i-birmingham,B
+United Kingdom,Brighton and Hove,i-brighton_and_hove,B
+United Kingdom,Blackpool,i-blackpool,B
+United Kingdom,Bristol,i-bristol,B
+United Kingdom,Glasgow,i-glasgow,G
+United Kingdom,Cardiff,i-cardiff,C
+United Kingdom,Cambridge,i-cambridge,C
+United Kingdom,Coventry,i-coventry,C
+United Kingdom,Leicester,i-leicester,L
+United Kingdom,Reading,i-reading,R
+United Kingdom,Liverpool,i-liverpool,L
+United Kingdom,Leeds,i-leeds,L
+United Kingdom,London,i-london,L
+United Kingdom,Manchester,i-manchester,M
+United Kingdom,Southampton,i-southampton,S
+United Kingdom,Oxford,i-oxford,O
+United Kingdom,Nottingham,i-nottingham,N
+United Kingdom,Chester,i-chester,C
+United Kingdom,Stirling,i-stirling,S
+United Kingdom,Fort William,i-fort_william,F
+United Kingdom,Windermere,i-windermere,W
+United Kingdom,Sheffield,i-sheffield,S
+United Kingdom,Inverness,i-inverness,I
+United Kingdom,York,i-york,Y
+Indonesia,Batam,i-batam,B
+Indonesia,Bali,i-bali,B
+Indonesia,Palembang,i-palembang,P
+Indonesia,Pontianak,i-pontianak,P
+Indonesia,Lombok,i-lombok,L
+Indonesia,Medan,i-medan,M
+Indonesia,Bintan,i-bintan,B
+Indonesia,Yogyakarta,i-yogyakarta,Y
+Indonesia,Serpong,i-serpong,S
+Indonesia,Semarang,i-semarang,S
+Indonesia,Surabaya,i-surabaya,S
+Indonesia,Tangerang,i-tangerang,T
+Indonesia,Bandung,i-bandung,B
+Indonesia,Makassar,i-makassar,M
+Indonesia,Jakarta,i-jakarta,J
+India,Agra,i-agra,A
+India,Ahmedabad,i-ahmedabad,A
+India,Bangalore,i-bangalore,B
+India,Gurgaon,i-gurgaon,G
+India,Hyderabad,i-hyderabad,H
+India,Kolkata,i-kolkata,K
+India,Chennai,i-chennai,C
+India,Mumbai,i-mumbai,M
+India,Noida,i-noida,N
+India,Pune,i-pune,P
+India,New Delhi,i-new_delhi,N
+India,Jaipur,i-jaipur,J
+Italy,Palermo,i-palermo,P
+Italy,Pisa,i-pisa,P
+Italy,Bologna,i-bologna,B
+Italy,Torino,i-torino,T
+Italy,Florence,i-florence,F
+Italy,Catania,i-catania,C
+Italy,Corniglia,i-corniglia,C
+Italy,Como,i-como,C
+Italy,La Spezia,i-la_spezia,L
+Italy,Rome,i-rome,R
+Italy,Mestre,i-mestre,M
+Italy,Milan,i-milan,M
+Italy,Naples,i-naples,N
+Italy,Parma,i-parma,P
+Italy,Genoa,i-genoa,G
+Italy,Venice,i-venice,V
+Italy,Verona,i-verona,V
+Italy,Siena,i-siena,S
+Israel,Tel Aviv Yafo,i-tel_aviv_yafo,T
+Israel,Jerusalem,i-jerusalem,J
+Hungary,Budapest,i-budapest,B
+new Zealand,Auckland,i-auckland,A
+new Zealand,Dunedin,i-dunedin,D
+new Zealand,Te Anau,i-te_anau,T
+new Zealand,Hamilton,i-hamilton,H
+new Zealand,Queenstown,i-queenstown,Q
+new Zealand,Wellington,i-wellington,W
+new Zealand,Christchurch,i-christchurch,C
+new Zealand,Rotorua,i-rotorua,R
+new Zealand,Taupo,i-taupo,T
+new Zealand,Lake Tekapo,i-lake_tekapo,L
+new Zealand,Wanaka,i-wanaka,W
+Singapore,Singapore,i-singapore,S
+Greece,Mykonos,i-mykonos,M
+Greece,Santorini,i-santorini,S
+Greece,Athens,i-athens,A
+Greece,Zakinthos Island,i-zakinthos_island,Z
+Spain,Barcelona,i-barcelona_prov_barcelona,B
+Spain,Bilbao,i-bilbao,B
+Spain,Granada,i-granada,G
+Spain,Cordoba,i-cordoba_province_cordoba,C
+Spain,Madrid,i-madrid,M
+Spain,Malaga,i-malaga,M
+Spain,Zaragoza,i-zaragoza,Z
+Spain,Sevilla,i-sevilla,S
+Spain,Toledo,i-toledo,T
+Spain,Valencia,i-valencia,V
+Uzbekistan,Bukhara,i-bukhara,B
+Uzbekistan,Tashkent,i-tashkent,T
+Ukraine,Kiev,i-kiev,K
+Brunei Darussalam,Bandar Seri Begawan,i-bandar_seri_begawan,B
+Turkey,Antalya,i-antalya,A
+Turkey,Fethiye,i-fethiye,F
+Turkey,Goreme,i-goreme,G
+Turkey,Pamukkale,i-pamukkale,P
+Turkey,Canakkale,i-canakkale,C
+Turkey,Istanbul,i-istanbul,I
+Turkey,Izmir,i-izmir,I
+Thailand,Amphawa,i-amphawa,A
+Thailand,Pattaya,i-pattaya,P
+Thailand,Pai,i-pai,P
+Thailand,Kanchanaburi,i-kanchanaburi,K
+Thailand,Chon Buri,i-chon_buri,C
+Thailand,Phra Nakhon Si Ayutthaya,i-phra_nakhon_si_ayutthaya,P
+Thailand,Trang,i-trang,T
+Thailand,Koh Tao,i-koh_tao,K
+Thailand,Hat Yai,i-hat_yai,H
+Thailand,Hua Hin,i-hua_hin,H
+Thailand,Krabi,i-krabi,K
+Thailand,Chanthaburi,i-chanthaburi,C
+Thailand,Khao Lak,i-khao_lak,K
+Thailand,Ko Lipe,i-ko_lipe,K
+Thailand,Rayong,i-rayong,R
+Thailand,Bangkok,i-bangkok,B
+Thailand,Nonthaburi,i-nonthaburi,N
+Thailand,Koh Phangan,i-koh_phangan,K
+Thailand,Phitsanulok,i-phitsanulok,P
+Thailand,Phi Phi Islands,i-phi_phi_islands,P
+Thailand,Phuket,i-phuket,P
+Thailand,Chiang Rai,i-chiang_rai,C
+Thailand,Chiang Mai,i-chiang_mai,C
+Thailand,Koh Samet,i-koh_samet,K
+Thailand,Koh Samui,i-koh_samui,K
+Thailand,Sukhothai,i-sukhothai,S
+Thailand,Udonthani,i-udonthani,U
+Thailand,Koh Chang,i-koh_chang,K
+Slovakia,Bratislava,i-bratislava,B
+Sri Lanka,Bentota,i-bentota,B
+Sri Lanka,Dambulla,i-dambulla,D
+Sri Lanka,Tissamaharama,i-tissamaharama,T
+Sri Lanka,Galle,i-galle,G
+Sri Lanka,Kandy,i-kandy,K
+Sri Lanka,Colombo,i-colombo,C
+Sri Lanka,Mirissa,i-mirissa,M
+Sri Lanka,Negombo,i-negombo,N
+Sri Lanka,Nuwara Eliya,i-nuwara_eliya,N
+Sri Lanka,Trincomalee,i-trincomalee,T
+Sri Lanka,Sigiriya,i-sigiriya,S
+Sri Lanka,Yala,i-hambantota_yala,Y
+Saudi Arabia,Jeddah,i-jeddah,J
+Saudi Arabia,Riyadh,i-riyadh,R
+Seychelles,Mahe Island,i-mahe_island,M
+Seychelles,Praslin Island,i-praslin_island,P
+Cyprus,Larnaca,i-larnaca,L
+Serbia,Belgrade,i-belgrade,B
+Switzerland,Basel,i-basel,B
+Switzerland,Berne,i-berne,B
+Switzerland,Zermatt,i-zermatt,Z
+Switzerland,Grindelwald,i-grindelwald,G
+Switzerland,Lauterbrunnen,i-lauterbrunnen,L
+Switzerland,Luzern,i-luzern,L
+Switzerland,Lausanne,i-lausanne,L
+Switzerland,Montreux,i-montreux,M
+Switzerland,Geneva,i-geneva,G
+Switzerland,Saint Moritz,i-saint_moritz,S
+Switzerland,Zurich,i-zurich,Z
+Switzerland,Interlaken,i-interlaken,I
+Sweden,Arlandastad,i-arlandastad,A
+Sweden,Gothenburg,i-gothenburg,G
+Sweden,Malmo,i-malmo,M
+Sweden,Stockholm,i-stockholm,S
+Sweden,Uppsala,i-uppsala,U
+Japan,Kita Kyushu,i-kita_kyushu,K
+Japan,Beppu,i-beppu,B
+Japan,Kusatsu machi,i-kusatsu_machi,K
+Japan,Narita,i-narita,N
+Japan,Okinawa,i-okinawa,O
+Japan,Kawasaki,i-kawasaki,K
+Japan,Ibaraki,i-ibaraki,I
+Japan,Osaka,i-osaka,O
+Japan,Oita,i-oita,O
+Japan,Tokushima,i-tokushima,T
+Japan,Noboribetsu,i-noboribetsu,N
+Japan,Tokyo,i-tokyo,T
+Japan,Toyako,i-toyako,T
+Japan,Fukushima,i-fukushima,F
+Japan,Fukuoka,i-fukuoka,F
+Japan,Furano,i-furano,F
+Japan,Toyama,i-toyama,T
+Japan,Fujikawaguchiko,i-fujikawaguchiko,F
+Japan,Fujiyoshida,i-fujiyoshida,F
+Japan,Okayama,i-okayama,O
+Japan,Takamatsu,i-takamatsu,T
+Japan,Kochi,i-kochi,K
+Japan,Miyazaki,i-miyazaki,M
+Japan,Hiroshima,i-hiroshima,H
+Japan,Hakodate,i-hakodate,H
+Japan,Wakayama,i-wakayama,W
+Japan,Yokohama,i-yokohama,Y
+Japan,Himeji,i-himeji,H
+Japan,Kanazawa,i-kanazawa,K
+Japan,Kyoto,i-kyoto,K
+Japan,Shizuoka,i-shizuoka,S
+Japan,Tochigi,i-tochigi,T
+Japan,Kamakura,i-kamakura,K
+Japan,Kagoshima,i-kagoshima,K
+Japan,Nagoya,i-nagoya,N
+Japan,Naha,i-naha,N
+Japan,Nara,i-nara,N
+Japan,Shirahama,i-shirahama,S
+Japan,Tottori,i-tottori,T
+Japan,Gifu,i-gifu,G
+Japan,Saitama,i-saitama,S
+Japan,Chitose,i-chitose,C
+Japan,Chiba,i-chiba,C
+Japan,Aomori,i-aomori,A
+Japan,Karuizawa,i-karuizawa,K
+Japan,Izumisano,i-izumisano,I
+Japan,Atami,i-atami,A
+Japan,Nikko,i-nikko,N
+Japan,Mishima,i-mishima,M
+Japan,Yamaguchi,i-yamaguchi,Y
+Japan,Yamanashi,i-yamanashi,Y
+Japan,Kobe,i-kobe,K
+Japan,Matsumoto,i-matsumoto,M
+Japan,Matsuyama,i-matsuyama,M
+Japan,Fujisawa,i-fujisawa,F
+Japan,Gero,i-gero,G
+Japan,Sendai,i-sendai,S
+Japan,Hakone,i-hakone,H
+Japan,Otaru,i-otaru,O
+Japan,Niigata,i-niigata,N
+Japan,Kumamoto,i-kumamoto,K
+Japan,Asahikawa,i-asahikawa,A
+Japan,Izu,i-izu,I
+Japan,Gotenba,i-gotenba,G
+Japan,Sapporo,i-sapporo,S
+Japan,Nagasaki,i-nagasaki,N
+Japan,Nagano,i-nagano,N
+Japan,Naoshima,i-naoshima,N
+Japan,Ibusuki,i-ibusuki,I
+Japan,Saga,i-saga,S
+Portugal,Porto,i-porto,P
+Portugal,Lisbon,i-lisbon,L
+Palau,Koror,i-koror,K
+Norway,Oslo,i-oslo,O
+Norway,Bergen,i-bergen,B
+Norway,Flam,i-flam,F
+Norway,Geiranger,i-geiranger,G
+Norway,Stavanger,i-stavanger,S
+Nepal,Pokhara,i-pokhara,P
+Nepal,Kathmandu,i-kathmandu,K
+South Africa,Cape Town,i-cape_town,C
+South Africa,Johannesburg,i-johannesburg,J
+Mexico,Guadalajara,i-guadalajara,G
+Mexico,Cancun,i-cancun,C
+Mexico,Mexico City,i-mexico_city,M
+Morocco,Casablanca,i-casablanca,C
+Myanmar,Mandalay,i-mandalay,M
+Myanmar,Naypyitaw,i-naypyitaw,N
+Myanmar,Bagan,i-bagan,B
+Myanmar,Yangon,i-yangon,Y
+Peru,Lima,i-lima,L
+Bangladesh,Dhaka,i-dhaka,D
+Mongolia,Ulaanbaatar,i-ulaanbaatar,U
+United States,Arlington county,i-arlington_county,A
+United States,Anaheim,i-anaheim,A
+United States,El Portal,i-el_portal,E
+United States,Evanston,i-evanston,E
+United States,Idaho Falls,i-idaho_falls,I
+United States,Iowa City,i-iowa_city,I
+United States,Ontario,i-ontario,O
+United States,Anchorage,i-anchorage,A
+United States,Ann Arbor,i-ann_arbor,A
+United States,Albany County,i-albany_county,A
+United States,Oakhurst,i-oakhurst,O
+United States,Oakland,i-oakland,O
+United States,Orlando,i-orlando,O
+United States,Austin,i-tx_austin,A
+United States,Baltimore,i-baltimore,B
+United States,Barstow,i-barstow,B
+United States,Banning,i-banning,B
+United States,Bellevue,i-wa_bellevue,B
+United States,Bakersfield,i-bakersfield,B
+United States,Ventura,i-ventura,V
+United States,Billings,i-billings,B
+United States,Bishop,i-bishop,B
+United States,Boston,i-ma_boston,B
+United States,Portland,i-or_portland,P
+United States,Berkeley,i-ca_berkeley,B
+United States,Burlingame,i-burlingame,B
+United States,Boulder,i-boulder,B
+United States,Bozeman,i-bozeman,B
+United States,Buffalo,i-ny_state_buffalo,B
+United States,Bryce Canyon,i-bryce_canyon,B
+United States,Orange,i-ca_orange,O
+United States,Durham,i-nc_durham,D
+United States,Dallas,i-dallas,D
+United States,The Big Island Hawaii island,i-the_big_is_hi_is,T
+United States,Atlantic City,i-atlantic_city,A
+United States,Grand Canyon Village,i-grand_canyon_village,G
+United States,Denver,i-denver,D
+United States,Detroit,i-detroit,D
+United States,Tuba City,i-tuba_city,T
+United States,Irvine,i-ca_irvine,I
+United States,Philadelphia,i-pa_philadelphia,P
+United States,Phoenix,i-phoenix,P
+United States,Flagstaff,i-flagstaff,F
+United States,Fresno,i-fresno,F
+United States,Fremont,i-ca_fremont,F
+United States,Columbus,i-oh_columbus,C
+United States,Guam,i-guam,G
+United States,Hacienda Heights,i-hacienda_heights,H
+United States,Herndon,i-va_herndon,H
+United States,Washington D C,i-washington_d_c,W
+United States,Key West,i-key_west,K
+United States,Gilroy,i-gilroy,G
+United States,Gardiner,i-mt_gardiner,G
+United States,Cambridge,i-ma_cambridge,C
+United States,Jackson,i-wy_jackson,J
+United States,Kingman,i-kingman,K
+United States,San Francisco,i-san_francisco,S
+United States,Carlsbad,i-carlsbad,C
+United States,Camarillo,i-camarillo,C
+United States,Carmel by the Sea,i-carmel_by_the_sea,C
+United States,Kanab,i-kanab,K
+United States,Cambria,i-cambria,C
+United States,Cody,i-cody,C
+United States,Cleveland,i-cleveland,C
+United States,Cupertino,i-cupertino,C
+United States,Rancho Cucamonga,i-rancho_cucamonga,R
+United States,Las Vegas,i-las_vegas,L
+United States,Fort Lauderdale,i-fort_lauderdale,F
+United States,Reno,i-reno,R
+United States,Livingston,i-mt_livingston,L
+United States,Louisville,i-ky_louisville,L
+United States,Rowland Heights,i-rowland_heights,R
+United States,Raleigh,i-raleigh,R
+United States,Rochester,i-ny_state_rochester,R
+United States,Rochester,i-rochester,R
+United States,Rosemont,i-rosemont,R
+United States,Los Angeles,i-los_angeles,L
+United States,Mariposa County,i-mariposa_county,M
+United States,Mammoth Lakes,i-mammoth_lakes,M
+United States,Miami,i-miami,M
+United States,Miami Beach,i-miami_beach,M
+United States,Madison,i-madison,M
+United States,Hawaii Maui,i-hawaii_maui,H
+United States,Monterey County,i-monterey_county,M
+United States,Milpitas,i-milpitas,M
+United States,Milwaukee,i-milwaukee,M
+United States,Minneapolis,i-minneapolis,M
+United States,Moab,i-moab,M
+United States,Modesto,i-modesto,M
+United States,Morro Bay,i-morro_bay,M
+United States,Merced,i-merced,M
+United States,Napa County,i-napa_county,N
+United States,South Lake Tahoe,i-south_lake_tahoe,S
+United States,Niagara Falls,i-ny_state_niagara_falls,N
+United States,New Haven,i-new_haven,N
+United States,Newark,i-ca_newark,N
+United States,Newark,i-nj_newark,N
+United States,New York,i-new_york,N
+United States,Irving,i-irving,I
+United States,Palo Alto,i-palo_alto,P
+United States,Pasadena,i-ca_pasadena,P
+United States,Page,i-page,P
+United States,Pittsburgh,i-pittsburgh,P
+United States,Pleasanton,i-pleasanton,P
+United States,Princeton,i-nj_princeton,P
+United States,Providence,i-providence,P
+United States,Sacramento,i-sacramento,S
+United States,Saipan,i-saipan,S
+United States,Sunnyvale,i-sunnyvale,S
+United States,Champaign,i-champaign,C
+United States,San Antonio,i-san_antonio,S
+United States,Santa Barbara County,i-santa_barbara_county,S
+United States,San Diego,i-san_diego,S
+United States,San Jose,i-ca_san_jose,S
+United States,San Gabriel,i-san_gabriel,S
+United States,Santa Clara,i-santa_clara,S
+United States,Santa Cruz,i-ca_santa_cruz,S
+United States,Saint Louis,i-saint_louis,S
+United States,San Luis Obispo County,i-san_luis_obispo_county,S
+United States,San Mateo,i-san_mateo,S
+United States,Santa Maria,i-ca_santa_maria,S
+United States,San Simeon,i-san_simeon,S
+United States,State College,i-state_college,S
+United States,Solvang,i-solvang,S
+United States,Tampa,i-tampa,T
+United States,Teton Village,i-teton_village,T
+United States,Tusayan,i-tusayan,T
+United States,Tucson,i-tucson,T
+United States,Williams,i-az_williams,W
+United States,Woodburn,i-woodburn,W
+United States,West Yellowstone,i-west_yellowstone,W
+United States,SeaTac,i-seatac,S
+United States,Seattle,i-seattle,S
+United States,Charlotte,i-charlotte,C
+United States,New Orleans,i-new_orleans,N
+United States,Houston,i-houston,H
+United States,Syracuse,i-syracuse,S
+United States,Arcadia,i-ca_arcadia,A
+United States,Atlanta,i-atlanta,A
+United States,Salt Lake City,i-salt_lake_city,S
+United States,Elizabeth,i-elizabeth,E
+United States,Ithaca,i-ithaca,I
+United States,Indianapolis,i-indianapolis,I
+United States,Eugene,i-eugene,E
+United States,Jersey City,i-jersey_city,J
+United States,Long Beach,i-long_beach,L
+United States,Chicago,i-chicago,C
+United States,Central Valley,i-central_valley,C
+United States,Juneau,i-juneau,J
+United States,Palm Springs,i-palm_springs,P
+United States,La Jolla,i-la_jolla,L
+Mauritius,Mauritius,i-mauritius,M
+Malaysia,Pangkor,i-pangkor,P
+Malaysia,Port Dickson,i-port_dickson,P
+Malaysia,Tioman,i-tioman,T
+Malaysia,Tawau,i-tawau,T
+Malaysia,Seremban,i-seremban,S
+Malaysia,Kota Bharu,i-kota_bharu,K
+Malaysia,Kota Kinabalu,i-kota_kinabalu,K
+Malaysia,Kuching,i-kuching,K
+Malaysia,Kuantan,i-kuantan,K
+Malaysia,Kuala Lumpur,i-kuala_lumpur,K
+Malaysia,Cameron Highlands,i-cameron_highlands,C
+Malaysia,Langkawi,i-langkawi,L
+Malaysia,Pulau Lang Tengah,i-pulau_lang_tengah,P
+Malaysia,Melaka,i-melaka,M
+Malaysia,Pulau Redang,i-pulau_redang,P
+Malaysia,Sandakan,i-sandakan,S
+Malaysia,Semporna,i-semporna,S
+Malaysia,Johor Bahru,i-johor_bahru,J
+Malaysia,Ipoh,i-ipoh,I
+Malaysia,Genting Highlands,i-genting_highlands,G
+Maldives,Maldives,i-maldives,M
+Maldives,Male,i-male,M
+Romania,Bucharest,i-bucharest,B
+Luxembourg,Luxembourg,i-luxembourg,L
+Lithuania,Vilnius,i-vilnius,V
+Laos,Luang Prabang,i-luang_prabang,L
+Laos,Vientiane,i-vientiane,V
+Latvia,Riga,i-riga,R
+Kenya,Mombasa,i-mombasa,M
+Kenya,Nairobi,i-nairobi,N
+Croatia,Dubrovnik,i-dubrovnik,D
+Kuwait,Kuwait,i-kuwait,K
+Qatar,Doha,i-doha,D
+Czech Republic,Prague,i-prague,P
+Czech Republic,Karlovy Vary,i-karlovy_vary,K
+Czech Republic,Cesky Krumlov,i-cesky_krumlov,C
+Cambodia,Phnom Penh,i-phnom_penh,P
+Cambodia,Sihanoukville,i-sihanoukville,S
+Cambodia,Siem Reap,i-siem_reap,S
+Canada,Edmonton,i-edmonton,E
+Canada,Banff,i-banff,B
+Canada,Burnaby,i-burnaby,B
+Canada,Toronto,i-toronto,T
+Canada,Field,i-field,F
+Canada,Halifax,i-halifax,H
+Canada,Hamilton,i-ontario_hamilton,H
+Canada,Whistler,i-whistler,W
+Canada,Kelowna,i-kelowna,K
+Canada,Jasper,i-jasper,J
+Canada,Kingston,i-frontenac_county_kingston,K
+Canada,Calgary,i-calgary,C
+Canada,Kamloops,i-kamloops,K
+Canada,Canmore,i-canmore,C
+Canada,Quebec City,i-quebec_city,Q
+Canada,Revelstoke,i-revelstoke,R
+Canada,Richmond,i-british_columbia_richmond,R
+Canada,Lake Louise,i-lake_louise,L
+Canada,London,i-middlesex_county_london,L
+Canada,Montreal,i-montreal,M
+Canada,Niagara Falls,i-niagara_falls,N
+Canada,Markham,i-markham,M
+Canada,Victoria,i-capital_victoria,V
+Canada,Vancouver,i-vancouver,V
+Canada,Winnipeg,i-winnipeg,W
+Canada,Ottawa,i-ottawa,O
+Netherlands,Amsterdam,i-amsterdam,A
+Netherlands,Eindhoven,i-eindhoven,E
+Netherlands,Delft,i-delft,D
+Netherlands,Hague,i-hague,H
+Netherlands,Roermond,i-roermond,R
+Netherlands,Rotterdam,i-rotterdam,R
+Netherlands,Maastricht,i-maastricht,M
+Netherlands,Schiphol,i-schiphol,S
+Netherlands,Giethoorn,i-giethoorn,G
+Korea,Seongnam,i-seongnam,S
+Korea,Daegu,i-daegu,D
+Korea,Daejeon,i-daejeon,D
+Korea,Busan,i-busan,B
+Korea,Gwangju,i-gwangju,G
+Korea,Jeju,i-jeju,J
+Korea,Gangneung si,i-gangneung_si,G
+Korea,Gyeongju,i-gyeongju,G
+Korea,Jeonju si,i-jeonju_si,J
+Korea,Incheon,i-incheon,I
+Korea,Seoul,i-seoul,S
+Korea,Sokcho si,i-sokcho_si,S
+Korea,Suwon,i-suwon,S
+Korea,Ulsan,i-ulsan,U
+Kazakhstan,Almaty,i-almaty,A
+Kazakhstan,Astana,i-astana,A
+Costa Rica,San Jose,i-san_jose,S
+Colombia,Bogota,i-bogota,B
+Colombia,Medellin,i-medellin,M
+Finland,Oulu,i-oulu,O
+Finland,Helsinki,i-helsinki,H
+Fiji,Fiji,i-fiji,F
+Fiji,Nadi,i-nadi,N
+Fiji,Veti Levu,i-veti_levu,V
+Philippines,Angeles,i-angeles,A
+Philippines,Batangas,i-batangas,B
+Philippines,Palawan,i-palawan,P
+Philippines,Bohol Island,i-bohol_island,B
+Philippines,Baguio,i-baguio,B
+Philippines,Davao,i-davao,D
+Philippines,Dumaguete,i-dumaguete,D
+Philippines,Puerto Galera,i-puerto_galera,P
+Philippines,Kalibo,i-kalibo,K
+Philippines,Manila,i-manila,M
+Philippines,Siquijor,i-siquijor,S
+Philippines,Cebu,i-cebu,C
+Philippines,Boracay,i-boracay,B
+France,Avignon,i-avignon,A
+France,Aix en Provence,i-aix_en_provence,A
+France,Annecy,i-annecy,A
+France,Paris,i-paris,P
+France,Bordeaux,i-bordeaux,B
+France,Dijon,i-dijon,D
+France,Cannes,i-cannes,C
+France,Rennes,i-rennes,R
+France,Lyon,i-lyon,L
+France,Lille,i-lille,L
+France,Rouen,i-rouen,R
+France,Marseille,i-marseille,M
+France,Montpellier,i-montpellier,M
+France,Nantes,i-nantes,N
+France,Nice,i-nice,N
+France,Strasbourg,i-strasbourg,S
+France,Tours,i-tours,T
+France,Toulouse,i-toulouse,T
+Ecuador,Guayaquil,i-guayaquil,G
+Ecuador,Quito,i-quito,Q
+Russia,Khabarovsk,i-khabarovsk,K
+Russia,Vladivostok,i-vladivostok,V
+Russia,Kazan,i-kazan,K
+Russia,Listvyanka,i-listvyanka,L
+Russia,Moscow,i-moscow,M
+Russia,Saint Petersburg,i-saint_petersburg,S
+Russia,Suzdal,i-suzdal,S
+Russia,Ufa,i-ufa,U
+Russia,Novosibirsk,i-novosibirsk,N
+Russia,Yekaterinburg,i-yekaterinburg,Y
+Russia,Irkutsk,i-irkutsk,I
+Germany,Essen,i-essen,E
+Germany,Frankfurt an der Oder,i-frankfurt_an_der_oder,F
+Germany,Augsburg,i-augsburg,A
+Germany,Baden Baden,i-baden_baden,B
+Germany,Berlin,i-berlin,B
+Germany,Bamberg,i-bamberg,B
+Germany,Berchtesgaden,i-berchtesgaden,B
+Germany,Bonn,i-bonn,B
+Germany,Bremen,i-bremen,B
+Germany,Dresden,i-dresden,D
+Germany,Dusseldorf,i-dusseldorf,D
+Germany,Dortmund,i-dortmund,D
+Germany,Frankfurt,i-frankfurt,F
+Germany,Fussen,i-fussen,F
+Germany,Heidelberg,i-heidelberg,H
+Germany,Hamburg,i-hamburg,H
+Germany,Hannover,i-hannover,H
+Germany,Garmisch Partenkirchen,i-garmisch_partenkirchen,G
+Germany,Karlsruhe,i-karlsruhe,K
+Germany,Kassel,i-kassel,K
+Germany,Konstanz,i-konstanz,K
+Germany,Koblenz,i-koblenz,K
+Germany,Cologne,i-cologne,C
+Germany,Leipzig,i-leipzig,L
+Germany,Regensburg,i-regensburg,R
+Germany,Lubeck,i-lubeck,L
+Germany,Mannheim,i-mannheim,M
+Germany,Metzingen,i-metzingen,M
+Germany,Mainz,i-mainz,M
+Germany,Munich,i-munich,M
+Germany,Nurnberg,i-nurnberg,N
+Germany,Stuttgart,i-stuttgart,S
+Germany,Rothenburg ob der Tauber,i-rothenburg_ob_der_tauber,R
+Germany,Wurzburg,i-wurzburg,W
+Germany,Wolfsburg,i-wolfsburg,W
+Germany,Aachen,i-aachen,A
+Denmark,Aarhus,i-aarhus,A
+Denmark,Billund,i-billund,B
+Denmark,Copenhagen,i-copenhagen,C
+Denmark,Odense,i-odense,O
+Bolivia,La Paz,i-la_paz,L
+Bolivia,Santa Cruz,i-santa_cruz,S
+Poland,Poznan,i-poznan,P
+Poland,Gdansk,i-gdansk,G
+Poland,Warsaw,i-warsaw,W
+Poland,Krakow,i-krakow,K
+Iceland,Reykjavik,i-reykjavik,R
+Iceland,Svalbare,i-svalbare,S
+Belgium,Antwerp,i-antwerp,A
+Belgium,Bruges,i-bruges,B
+Belgium,Brussels,i-brussels,B
+Belgium,Ghent,i-ghent,G
+Bulgaria,Sofia,i-sofia,S
+White Rose,Minsk,i-minsk,M
+Brazil,Rio De Janeiro,i-rio_de_janeiro,R
+Brazil,Sao Paulo,i-sao_paulo,S
+Panama,Panama City,i-panama_city,P
+Bahrain,Manama,i-manama,M
+Pakistan,Karachi,i-karachi,K
+Pakistan,Lahore,i-lahore,L
+Pakistan,Islamabad,i-islamabad,I
+Australia,Apollo Bay,i-apollo_bay,A
+Australia,Adelaide,i-adelaide,A
+Australia,Airlie Beach,i-airlie_beach,A
+Australia,Brisbane,i-brisbane,B
+Australia,Darwin,i-darwin,D
+Australia,Hamilton Island,i-hamilton_island,H
+Australia,Gold Coast,i-gold_coast,G
+Australia,Hobart,i-hobart,H
+Australia,Geelong,i-geelong,G
+Australia,Cairns,i-cairns,C
+Australia,Canberra,i-canberra,C
+Australia,Port Campbell,i-port_campbell,P
+Australia,Launceston,i-launceston,L
+Australia,Lorne,i-lorne,L
+Australia,Melbourne,i-melbourne,M
+Australia,Perth,i-perth,P
+Australia,Whitsunday Region,i-whitsunday_region,W
+Australia,Sydney,i-sydney,S
+Austria,Hallstatt,i-hallstatt,H
+Austria,Salzburg,i-salzburg,S
+Austria,St Wolfgang,i-st_wolfgang,S
+Austria,Vienna,i-vienna,V
+Austria,Innsbruck,i-innsbruck,I
+Estonia,Tallinn,i-tallinn,T
+Ireland,Dublin,i-dublin,D
+Ethiopia,Addis ababa,i-addis_ababa,A
+Egypt,Cairo,i-cairo,C
+Egypt,Luxor,i-luxor,L
+Egypt,Sharm El Sheikh,i-sharm_el_sheikh,S
+Oman,Muscat,i-muscat,M
+United Arab Emirates,Abu Dhabi,i-abu_dhabi,A
+United Arab Emirates,Dubai,i-dubai,D
+United Arab Emirates,Sharjah,i-sharjah,S
+Argentina,Buenos Aires,i-buenos_aires,B
+Algeria,Algiers,i-algiers,A
