@@ -68,9 +68,14 @@ function formatData(data) {
         }
     });
     Object.keys(withSection).forEach(fileName => {
-        fileData[fileName] = {}
+        fileData[fileName] = {};
         Object.keys(withSection[fileName]).sort().forEach(title => {
-            fileData[fileName][title] = withSection[fileName][title];
+            fileData[fileName][title] = withSection[fileName][title].sort((a, b) => {
+                if(fileName === 'en-US'){
+                    return a.cityEName < b.cityEName ? -1 : 1;
+                }
+                return a.cityName < b.cityName ? -1 : 1;
+            });
         })
     });
     return {
